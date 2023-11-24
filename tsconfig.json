@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "baseUrl": "src",
+      "outDir": "dist",
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "strict": true,
+      "noUnusedLocals": true,                           /* Enable error reporting when local variables aren't read. */
+      "noUnusedParameters": true,                       /* Raise an error when a function parameter isn't read. */
+      "noImplicitReturns": false,                        /* Enable error reporting for codepaths that do not explicitly return in a function. */
+      "noFallthroughCasesInSwitch": true,   
+    },
+    "include": ["src/**/*"],
+  }
