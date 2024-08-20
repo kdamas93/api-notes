@@ -37,7 +37,7 @@
   "eslintConfig": {
     "parserOptions": {
       "project": "tsconfig.json",
-      "tsconfigRootDir": "kd-api",
+      "tsconfigRootDir": "api-notes",
       "sourceType": "module"
     },
     "extends": [
